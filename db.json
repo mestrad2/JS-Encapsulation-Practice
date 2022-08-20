@@ -2,15 +2,22 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
+      "name": "Alex's Sandwich",
       "bread": "Sourdough",
       "ingredients": [
-        "Cheddar Cheese",
-        "Mayo",
         "Ham",
+        "Turkey",
         "Bacon",
         "Lettuce",
-        "Tomatoes"
+        "Tomatoes",
+        "Onions",
+        "Cheddar Cheese",
+        "American Cheese*",
+        "Parmesan Cheese",
+        "Mayo",
+        "Oil & Vinegar",
+        "Salt",
+        "Pepper"
       ]
     }
   ],
